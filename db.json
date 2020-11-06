@@ -1,0 +1,16 @@
+{
+	"post": {
+		"id": 1,
+		"likes": 5,
+		"comment": "this is a post",
+		"week": 1,
+		"userEmail": "email"
+	},
+	"user": {
+		"id": 1,
+		"email": "email",
+		"firstName": "John",
+		"lastName": "Smith",
+		"password": "password"
+	}
+}
